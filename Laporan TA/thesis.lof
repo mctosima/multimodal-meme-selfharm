@@ -1,0 +1,39 @@
+\babel@toc {bahasa}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Contoh Meme \textit {Non-Self-Harm}}}{2}{figure.caption.20}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Contoh Meme \textit {Self-Harm}}}{3}{figure.caption.21}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Contoh Meme dengan Makna Tersirat \blx@tocontentsinit {0}\cite {kiela2020hateful}}}{5}{figure.caption.22}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Contoh \textit {Early Fusion}}}{22}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Contoh \textit {Intermediate Fusion}}}{23}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Contoh \textit {Late Fusion}}}{24}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Contoh \textit {Hybrid Fusion}}}{25}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Arsitektur Transformer dengan \textit {Encoder} \blx@tocontentsinit {0}\cite {vaswani2017attention}}}{33}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Arsitektur CLIP \blx@tocontentsinit {0}\cite {Pan2022ContrastiveKCLIP}}}{35}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Arsitektur ELECTRA \blx@tocontentsinit {0}\cite {clark2020electra}}}{36}{figure.caption.31}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Alur Penelitian}}{42}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Perbandingan Gambar Augmentasi \textit {Flip Horizontal}}}{54}{figure.caption.36}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Perbandingan Gambar Augmentasi \textit {Rotasi Acak}}}{55}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Perbandingan Gambar Augmentasi \textit {Color Jitter}}}{56}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Alur Pengembangan Model}}{57}{figure.caption.39}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Rancangan (\textit {Unimodal Image-Only})}}{60}{figure.caption.41}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Rancangan (\textit {Unimodal Text-Only})}}{63}{figure.caption.43}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Rancangan Fusion Model Multimodal}}{64}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Rancangan Arsitektur Model Multimodal dengan Transformer Encoder}}{68}{figure.caption.49}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Contoh Data Meme}}{78}{figure.caption.53}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Kurva Pelatihan Eksperimen E4 pada Model Unimodal Gambar}}{97}{figure.caption.59}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \textit {Confusion Matrix} Eksperimen E4 pada Model Unimodal Gambar}}{98}{figure.caption.60}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Kurva Pelatihan Eksperimen E6 pada Model Unimodal Teks}}{100}{figure.caption.62}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces \textit {Confusion Matrix} Eksperimen E6 pada Model Unimodal Teks}}{101}{figure.caption.63}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Kurva Pelatihan Eksperimen E16 pada Model Multimodal}}{104}{figure.caption.66}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces \textit {Confusion Matrix} Eksperimen E16 pada Model Multimodal}}{105}{figure.caption.67}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Kurva Pelatihan Eksperimen E18 pada Model Multimodal Gambar}}{107}{figure.caption.69}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces \textit {Confusion Matrix} Eksperimen E18 pada Model Multimodal Gambar}}{108}{figure.caption.70}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Kurva Pelatihan Eksperimen E26 pada Model Multimodal \textit {Positional Embedding}}}{112}{figure.caption.73}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces \textit {Confusion Matrix} Eksperimen E26 pada Model \textit {Multimodal Positional Embedding}}}{113}{figure.caption.74}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Contoh Data dengan \textit {Disagreement} Antar \textit {Annotator}}}{117}{figure.caption.77}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Contoh \textit {False Negative} pada Model}}{119}{figure.caption.80}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Contoh \textit {False Positive} pada Model}}{120}{figure.caption.81}%
+\addvspace {10\p@ }

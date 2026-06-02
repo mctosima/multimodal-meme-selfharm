@@ -1,0 +1,37 @@
+\babel@toc {bahasa}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Literasi Penelitian Terdahulu}}{17}{table.caption.23}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces Literasi Penelitian Terdahulu}}{18}{table.caption.24}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces \textit {Confusion Matrix}}}{40}{table.caption.32}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Daftar Hashtag Pengumpulan Data Primer}}{45}{table.caption.34}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Karakteristik \textit {Annotator}}}{53}{table.caption.35}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Spesifikasi \textit {Encoder} pada Masing-Masing Modalitas}}{60}{table.caption.40}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Skenario Eksperimen \textit {Hyperparameter} Model Unimodal \textit { Image-Only}}}{61}{table.caption.42}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Skenario Eksperimen \textit {Hyperparameter} Model Unimodal \textit { Text-Only}}}{64}{table.caption.44}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Skenario Eksperimen Dimensi Fitur Model Multimodal}}{66}{table.caption.46}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces Skenario Eksperimen Strategi \textit {Loss} pada Model}}{66}{table.caption.47}%
+\contentsline {table}{\numberline {3.8}{\ignorespaces Skenario Eksperimen Metode \textit {Fusion} pada Model Multimodal}}{67}{table.caption.48}%
+\contentsline {table}{\numberline {3.9}{\ignorespaces Skenario Eksperimen \textit {Positional Encoding} pada Model Multimodal}}{68}{table.caption.50}%
+\contentsline {table}{\numberline {3.10}{\ignorespaces Komposisi Dataset Awal Penelitian}}{72}{table.caption.51}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Komposisi Dataset Awal Penelitian}}{77}{table.caption.52}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Contoh Hasil Anotasi oleh GPT-4o}}{80}{table.4.2}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Contoh Hasil Anotasi oleh Qwen-VL-Flash}}{82}{table.4.3}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Distribusi Tingkat Kesepakatan Antar Model}}{84}{table.caption.54}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Distribusi Label Akhir Dataset}}{85}{table.caption.55}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Pembagian Dataset}}{89}{table.caption.56}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces Konfigurasi \textit {Hyperparameter} Pelatihan}}{95}{table.caption.57}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces Hasil Eksperimen Model Unimodal Gambar}}{96}{table.caption.58}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces Hasil Eksperimen Model unimodal Teks}}{99}{table.caption.61}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces Konfigurasi \textit {Hyperparameter Training} Model Multimodal Variasi Dimensi}}{102}{table.caption.64}%
+\contentsline {table}{\numberline {4.11}{\ignorespaces Hasil Eksperimen Model multimodal Variasi Dimensi}}{103}{table.caption.65}%
+\contentsline {table}{\numberline {4.12}{\ignorespaces Hasil Eksperimen Model Multimodal Strategi Penanganan \textit {Class Imbalance}}}{107}{table.caption.68}%
+\contentsline {table}{\numberline {4.13}{\ignorespaces Hasil Eksperimen Model Multimodal Metode \textit {Fusion}}}{110}{table.caption.71}%
+\contentsline {table}{\numberline {4.14}{\ignorespaces Hasil Eksperimen Model \textit {Multimodal Positional Embedding}}}{111}{table.caption.72}%
+\contentsline {table}{\numberline {4.15}{\ignorespaces Perbandingan Performa Model}}{114}{table.caption.75}%
+\contentsline {table}{\numberline {4.16}{\ignorespaces Distribusi \textit {Agreement} dan \textit {Disagreement} Annotator}}{116}{table.caption.76}%
+\contentsline {table}{\numberline {4.17}{\ignorespaces Distribusi Label \textit {Ground Truth} Annotator}}{118}{table.caption.78}%
+\contentsline {table}{\numberline {4.18}{\ignorespaces \textit {Confusion Matrix} Model terhadap \textit {Ground Truth}}}{118}{table.caption.79}%
+\addvspace {10\p@ }
